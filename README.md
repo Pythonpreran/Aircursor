@@ -12,7 +12,8 @@ AirCursor is a Python application that enables touchless cursor control using ha
 - Real-time hand tracking with visual feedback via webcam feed.
 
 ## Demo
-*(Add a screenshot or GIF of the application in action here, e.g., hand tracking with cursor movement or clicking. You can generate one using a screen recording tool and upload it to the repository.)*
+![ezgif-72ff60e342241d (1)](https://github.com/user-attachments/assets/93e12f41-bcfe-4894-8456-e1c0afb9f8c8)
+
 
 ## Requirements
 - Python 3.11
