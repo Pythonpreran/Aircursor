@@ -7,7 +7,7 @@ AirCursor is a Python application that enables touchless cursor control using ha
 ## Features
 - **Cursor Movement**: Track the index finger tip to move the cursor across the screen.
 - **Left Click**: Pinch gesture (thumb and index finger close together).
-- **Right Click**: Index finger folded with thumb held horizontally.
+- **Right Click**: Fingers folded with thumb held horizontally.
 - **Scroll**: Fist gesture with vertical hand movement.
 - Real-time hand tracking with visual feedback via webcam feed.
 
