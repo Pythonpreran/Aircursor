@@ -1,8 +1,6 @@
 # AirCursor: Gesture-Based Cursor Control
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
-![License](https://img.shields.io/badge/License-Apache%202.0-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 AirCursor is a Python application that enables touchless cursor control using hand gestures captured via a webcam. It uses computer vision and hand tracking to move the mouse cursor, perform left and right clicks, and scroll based on specific hand gestures.
 
